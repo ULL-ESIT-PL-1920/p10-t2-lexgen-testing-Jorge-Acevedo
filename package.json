@@ -3,10 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "jest": "^25.2.4"
+  },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "Jorge Acevedo de León <alu0101123622@ull.edu.es> (https://github.com/Jorge-Acevedo)",
   "license": "ISC"
