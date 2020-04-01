@@ -4,7 +4,7 @@ const debug = process.env["DEBUG"];
 const { inspect } = require('util');
 const ins = (x) => { if (debug) console.log(inspect(x, {depth: null})) };
 
-const buildLexer =require('@ULL-ESIT-PL-1920/p10-t2-lexgen-code-jorge-acevedo');
+const buildLexer =require('@ULL-ESIT-PL-1920/p10-t2-lexgen-code-jorge-acevedo@1.0.1');
 
 const SPACE = /(?<SPACE>\s+|\/\/.*)/;
 const RESERVEDWORD = /(?<RESERVEDWORD>\b(const|let)\b)/;
