@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "@ULL-ESIT-PL-1920/p10-t2-lexgen-code-jorge-acevedo": "^1.0.1",
     "jest": "^25.2.4"
   },
   "devDependencies": {},
