@@ -1,0 +1,13 @@
+{
+  "name": "p10-t2-lexgen-testing-jorge-acevedo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Acevedo de León <alu0101123622@ull.edu.es> (https://github.com/Jorge-Acevedo)",
+  "license": "ISC"
+}
